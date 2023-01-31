@@ -40,11 +40,20 @@ demo website : [random-data-api](https://random-data-api.com/api/v2/users)
 
 - Drive link: https://docs.google.com/spreadsheets/d/1rnamaVvXVe06k0wSKub2qqPPssgMP5SDyBSOwHhWf4A/edit?usp=sharing
 
+## Screenshot:
+
+![expected tps](https://user-images.githubusercontent.com/68238652/215767019-c9993760-798a-4658-a5a8-22b7af1031a6.PNG)
+
 
 
 
 ### Bottleneck/Stress test point Google drive link and screenshot
 
 - Drive link: https://docs.google.com/spreadsheets/d/1tkrLRpf4UcDk5tnIxyG85nf3Erkn4L1JrKVhKSQ4lN4/edit?usp=sharing
+
+## Screenshot:
+
+![bottleneckpoint](https://user-images.githubusercontent.com/68238652/215767179-16fd9a88-c59b-42d6-8571-4b8e7db87d7b.PNG)
+
 
 
